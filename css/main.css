@@ -39,6 +39,10 @@ body {
     margin-top: 2rem;
 
 }
+a {
+    text-decoration: none;
+    color: #000;
+}
 .left__side {
     grid-area: list;
     overflow-y: scroll;

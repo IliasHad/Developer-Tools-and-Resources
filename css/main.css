@@ -87,6 +87,7 @@ a:hover {
     text-decoration: none;
     color: #000;
     font-size: 1.3rem;
+    font-weight: 700;
 }
 .tools__description , .ressources__description {
     font-size: 1rem;

@@ -101,9 +101,10 @@ body {
 }
 .tools__content-list, .ressources__content-list {
     margin-left: 2rem;
-    margin-top: 2rem;
-    margin-bottom: 2rem;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
     padding-top: 2rem;
+
 }
 .tools__description-content, .ressources__description-content {
     text-align: center;

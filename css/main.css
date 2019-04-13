@@ -15,13 +15,29 @@ body {
     justify-items: center;
 
 }
-.hero__img {
-    width: 20rem;
+.hero__img{
+    width: 50vw;
 }
 .container {
     display: grid;
     grid-template-columns: max-content 1fr;
     grid-template-areas: 'list hero' 'list content';
+}
+.hero__p {
+    font-size: 1.2rem;
+    margin: 1rem 0;
+
+}
+.hero__btn {
+    text-decoration: none;
+    border-radius: 24px;
+    font-size: 1rem;
+    font-weight: 700;
+    background-color: rgb(0, 84, 215);
+    color: #fff;
+    padding: 1rem 2rem;
+    margin-top: 2rem;
+
 }
 .left__side {
     grid-area: list;

@@ -43,6 +43,9 @@ a {
     text-decoration: none;
     color: #000;
 }
+a:hover {
+    color: rgb(0, 84, 215);
+}
 .left__side {
     grid-area: list;
     overflow-y: scroll;

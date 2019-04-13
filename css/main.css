@@ -10,6 +10,14 @@ body {
     font-family: sans-serif;
 
 }
+.hero {
+    display: grid;
+    justify-items: center;
+
+}
+.hero__img {
+    width: 20rem;
+}
 .container {
     display: grid;
     grid-template-columns: max-content 1fr;

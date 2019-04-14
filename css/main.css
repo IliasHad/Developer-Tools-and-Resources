@@ -140,6 +140,15 @@ a:hover {
     padding: .5rem 0;
 
 }
+.social__links {
+    position: fixed;
+    bottom: 0;
+    top: 0;
+    
+}
+body {
+    font-size: 45%;
+}
 .hero__p {
     text-align: center;
 }

@@ -123,7 +123,26 @@ a:hover {
     font-weight: 700;
 }
 @media (max-width: 680px) {
-   
+    .tools__list, .ressources__list {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
+        justify-items: center;
+    }
+    .tools__description, .ressources__description {
+        
+        width: 25rem;
+    }
+}
+@media (max-width: 320px) {
+.social__links svg {
+    height: 1rem;
+    width: 30vw;
+    padding: .5rem 0;
+
+}
+.hero__p {
+    text-align: center;
+}
 }
 .tools__description , .ressources__description {
     font-size: 1rem;

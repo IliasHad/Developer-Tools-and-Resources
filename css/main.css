@@ -123,11 +123,7 @@ a:hover {
     font-weight: 700;
 }
 @media (max-width: 680px) {
-    .tools__list, .ressources__list {
-        display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
-        justify-items: center;
-    }
+   
 }
 .tools__description , .ressources__description {
     font-size: 1rem;

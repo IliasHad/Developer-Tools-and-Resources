@@ -143,6 +143,9 @@ a:hover {
 .hero__p {
     text-align: center;
 }
+.social__links ul {
+    display: flex;
+}
 }
 .tools__description , .ressources__description {
     font-size: 1rem;

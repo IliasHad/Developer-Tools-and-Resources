@@ -8,7 +8,7 @@
   "background_color":"#ffffff",
   "icons": [
     {
-      "src": "img/programming.png",
+      "src": "/img/programming.png",
       "sizes": "512x512",
       "type": "image/png"
     }]

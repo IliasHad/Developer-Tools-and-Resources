@@ -110,8 +110,9 @@ a:hover {
 .tools__list, .ressources__list {
     list-style: none;
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
 }
+
 .tools__list li:not(:last-of-type), .ressources__list li:not(:last-of-type) {
     margin-bottom: 2rem;
 }
@@ -120,6 +121,13 @@ a:hover {
     color: #000;
     font-size: 1.3rem;
     font-weight: 700;
+}
+@media (max-width: 680px) {
+    .tools__list, .ressources__list {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
+        justify-items: center;
+    }
 }
 .tools__description , .ressources__description {
     font-size: 1rem;

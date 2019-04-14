@@ -2,7 +2,7 @@
 {
   "name": "Developer Tools",
   "short_name": "Dev Tools",
-  "start_url": "/Developer-Tools-and-Resources/",
+  "start_url": "/Developer-Tools-and-Resources",
   "display": "standalone",
   "theme_color": "#ffffff",
   "background_color":"#ffffff",

@@ -23,6 +23,38 @@ body {
     grid-template-columns: max-content 1fr;
     grid-template-areas: 'list hero' 'list content';
 }
+.social__links svg {
+  
+    height: 1.5rem;
+    width: 1.5rem;
+    padding: .8rem;
+    fill: #fff;
+}
+.social__links svg:hover{
+    opacity: .8;
+}
+.social__links {
+    position: fixed;
+    left: 0;
+    top: 50%;
+
+}
+.social__links ul {
+    list-style: none;
+}
+.facebook {
+    background: #3b5998;
+    
+}
+.twitter {
+    background: #38A1F3
+}
+.linkedin {
+    background: #0077B5;
+}
+.reddit {
+    background: #FF4301;
+}
 .hero__p {
     font-size: 1.2rem;
     margin: 1rem 0;

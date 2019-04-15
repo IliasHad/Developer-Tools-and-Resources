@@ -211,7 +211,7 @@ The Best Tools and Resources for developers
 
 [Code Radio By Freecodecamp](https://www.youtube.com/channel/UC2WHjPDvbE6O328n17ZGcfg/)-24/7 Music for concentration
 
-###Market or Sell your Side Projects
+### Market or Sell your Side Projects
 
 [Product Hunt](https://producthunt.com/)-Product Hunt is a curation of the best new products and services, every day and you can get potential users of your products or servcies for free
 
@@ -223,8 +223,8 @@ The Best Tools and Resources for developers
 
 [Themeforest](https://themeforest.net/)-#1 Marketplace to Sell and Buy Themes for Wordpress, Shopify, Mangento and more...
 
-
-###Remote Jobs
+ 
+### Remote Jobs
 
 [Remote Ok](https://remoteok.io/)-#1 Remote Jobs Board
 
@@ -236,7 +236,7 @@ The Best Tools and Resources for developers
 
 
 
-###Freelancing
+### Freelancing
 [Upwork](https://www.upwork.com/)The #1 Freelancing Marketplace to get freelancing projects
 
 
@@ -245,7 +245,7 @@ The Best Tools and Resources for developers
 
 
 
-###Developer Portfolio
+### Developer Portfolio
 
 
 
@@ -268,7 +268,7 @@ The Best Tools and Resources for developers
 
 
 
-###Developer to follow on Instagram
+### Developer to follow on Instagram
 
 
 
@@ -286,7 +286,7 @@ The Best Tools and Resources for developers
 
 
 
-###Developer to follow on Twiiter
+### Developer to follow on Twiiter
 
 [Sara Soueidan](https://twitter.com/SaraSoueidan)Sara is an award-winning freelance front-end UI/UX developer, technical writer, author and speaker from Lebanon
 
@@ -303,7 +303,7 @@ The Best Tools and Resources for developers
 
 
 
-###Developer Communities
+### Developer Communities
 
 
 [WebDev - Reddit](https://www.reddit.com/r/webdev/)A community dedicated to all things web development: both front-end and back-end

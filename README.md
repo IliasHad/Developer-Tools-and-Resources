@@ -1,5 +1,5 @@
 # Developer Tools and Resources
-The Best Tools and Resources for developers
+The Best Tools and Resources for developers.
 
 
 Table of Content
@@ -36,11 +36,7 @@ Table of Content
 
 
 
-How to Contribute
 
-
-
-Please, feel free to contribute more developers tools and resources . just send a Pull Request with respect to our[Contribution Guidelines](https://github.com/IliasHad/Developer-Tools-and-Resources/blob/master/Contribution_Guidelines.md)
 
 ### Testing and Optimization 
 [Google Page Speed Insight](https://developers.google.com/speed/pagespeed/insights/)--  Test your website speed and accesiblity
@@ -357,6 +353,10 @@ Please, feel free to contribute more developers tools and resources . just send 
 [Programming - Reddit](https://www.reddit.com/r/programming/) - The biggest community of developers on Reddit with over than 1.9 Members
 
 
+# How to Contribute
 
+
+
+Please, feel free to contribute more developers tools and resources . just send a Pull Request with respect to our[Contribution Guidelines](https://github.com/IliasHad/Developer-Tools-and-Resources/blob/master/Contribution_Guidelines.md)
 
 

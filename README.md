@@ -226,22 +226,22 @@ The Best Tools and Resources for developers
  
 ### Remote Jobs
 
-[Remote Ok](https://remoteok.io/)-#1 Remote Jobs Board
+[Remote Ok](https://remoteok.io/)- #1 Remote Jobs Board
 
-[We Work Remotely](https://weworkremotely.com/)Another great remote jobs board
+[We Work Remotely](https://weworkremotely.com/) - Another great remote jobs board
 
 
-[Stack Overflow](https://stackoverflow.com/jobs/remote-developer-jobs)Remote Jobs by biggest Community of Developers
+[Stack Overflow](https://stackoverflow.com/jobs/remote-developer-jobs)- Remote Jobs by biggest Community of Developers
 
 
 
 
 ### Freelancing
-[Upwork](https://www.upwork.com/)The #1 Freelancing Marketplace to get freelancing projects
+[Upwork](https://www.upwork.com/) - The #1 Freelancing Marketplace to get freelancing projects
 
 
 
-[Fiverr](https://www.fiverr.com/)Great Website for new developer to get freelancing projects from 5$ to 1000$ and more
+[Fiverr](https://www.fiverr.com/) - Great Website for new developer to get freelancing projects from 5$ to 1000$ and more
 
 
 
@@ -249,19 +249,19 @@ The Best Tools and Resources for developers
 
 
 
-[Tobias Reich](https://electerious.com/)Web Developer and Designer
+[Tobias Reich](https://electerious.com/) - Web Developer and Designer
 
 
-[Matt Lee ](http://bymattlee.com/)Creative Developer
+[Matt Lee ](http://bymattlee.com/) - Creative Developer
 
 
-[Riccardo Zanutta](http://riccardozanutta.com/)Front End Developer
+[Riccardo Zanutta](http://riccardozanutta.com/) - Front End Developer
 
-[Rafael Caferati](https://caferati.me/)Full Stack Developer
+[Rafael Caferati](https://caferati.me/) - Full Stack Developer
 
-[Jad Joubran](https://jadjoubran.io/)Award-winning tech speaker & web consultant
-
-[Jonathan Dion](http://www.jonathandion.com/)Full Stack Developer & Designer.
+[Jad Joubran](https://jadjoubran.io/) - Award-winning tech speaker & web consultant
+ 
+[Jonathan Dion](http://www.jonathandion.com/) - Full Stack Developer & Designer.
 
 
 
@@ -272,15 +272,15 @@ The Best Tools and Resources for developers
 
 
 
-[Fidalgo](https://www.instagram.com/fidalgo.dev/)Self Taught Front End Developer
+[Fidalgo](https://www.instagram.com/fidalgo.dev/) - Self Taught Front End Developer
 
 
 
-[Julia Johnson](https://www.instagram.com/juliacodes/)Web Developer & Designer
+[Julia Johnson](https://www.instagram.com/juliacodes/) - Web Developer & Designer
 
-[Jens](https://www.instagram.com/jens.codes/)Web Developer & Designer
+[Jens](https://www.instagram.com/jens.codes/) - Web Developer & Designer
 
-[Victoria Meicncaus](https://www.instagram.com/vickysdailystandup/)Web Developer & Designer
+[Victoria Meicncaus](https://www.instagram.com/vickysdailystandup/) - Web Developer & Designer
 
 
 
@@ -288,17 +288,17 @@ The Best Tools and Resources for developers
 
 ### Developer to follow on Twiiter
 
-[Sara Soueidan](https://twitter.com/SaraSoueidan)Sara is an award-winning freelance front-end UI/UX developer, technical writer, author and speaker from Lebanon
+[Sara Soueidan](https://twitter.com/SaraSoueidan) - Sara is an award-winning freelance front-end UI/UX developer, technical writer, author and speaker from Lebanon
 
 
 
 
-[Brad Frost](https://twitter.com/brad_frost)Brad a web designer, speaker, writer, consultant, and musician in beautiful Pittsburgh, PA. Author of Atomic Design.
+[Brad Frost](https://twitter.com/brad_frost) - Brad a web designer, speaker, writer, consultant, and musician in beautiful Pittsburgh, PA. Author of Atomic Design.
 
 
 
 
-[Smashing Magazine](https://twitter.com/smashingmag)An online magazine for professional Web designers and developers
+[Smashing Magazine](https://twitter.com/smashingmag) - An online magazine for professional Web designers and developers
 
 
 
@@ -306,18 +306,18 @@ The Best Tools and Resources for developers
 ### Developer Communities
 
 
-[WebDev - Reddit](https://www.reddit.com/r/webdev/)A community dedicated to all things web development: both front-end and back-end
+[WebDev - Reddit](https://www.reddit.com/r/webdev/) - A community dedicated to all things web development: both front-end and back-end
 
 
 
-[Learn Programming - Reddit](https://www.reddit.com/r/learnprogramming)A subreddit for all questions related to programming in any language.
+[Learn Programming - Reddit](https://www.reddit.com/r/learnprogramming) - A subreddit for all questions related to programming in any language.
 
 
 
-[Javascript - Reddit](https://www.reddit.com/r/javascript)All about the JavaScript programming language!
+[Javascript - Reddit](https://www.reddit.com/r/javascript) - All about the JavaScript programming language!
 
 
-[Programming - Reddit](https://www.reddit.com/r/programming/)The biggest community of developers on Reddit with over than 1.9 Members
+[Programming - Reddit](https://www.reddit.com/r/programming/) - The biggest community of developers on Reddit with over than 1.9 Members
 
 
 

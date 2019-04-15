@@ -2,32 +2,33 @@
 The Best Tools and Resources for developers
 
 
-Lists:
--[Testing and Optimization](#testing-and-optimization)
+Table of Content
+
+*[Testing and Optimization](#testing-and-optimization)
  
--[Free Stock Photos for commercial use](#free-stock-photos-for-commercial-use)
--[Free Illustartions for commercial use](#free-illustartions--for-commercial-use)
--[Color Gradient](#color-gradient)
--[Free Icons](#free-icons)
--[UI Design Inspiration](#ui-design-inspiration)
--[Free UI Design](#free-ui-design)
--[Others Tools](#others-tools)
--[Javascript Ressources](#javascript-ressources)
--[CSS Ressources](#css-ressources)
--[Youtube Channels](#youtube-channels)
--[Blogs](#blogs)
--[Podcasts](#podcasts)
+*[Free Stock Photos for commercial use](#free-stock-photos-for-commercial-use)
+*[Free Illustartions for commercial use](#free-illustartions--for-commercial-use)
+*[Color Gradient](#color-gradient)
+*[Free Icons](#free-icons)
+*[UI Design Inspiration](#ui-design-inspiration)
+*[Free UI Design](#free-ui-design)
+*[Others Tools](#others-tools)
+*[Javascript Ressources](#javascript-ressources)
+*[CSS Ressources](#css-ressources)
+*[Youtube Channels](#youtube-channels)
+*[Blogs](#blogs)
+*[Podcasts](#podcasts)
 
--[Music Playlists](#music-playlists)
--[Market or Sell your Side Projects](#market-or-sell-your-side-projects)
--[Remote Jobs](#remote-jobs)
--[Freelancing](#freelancing)
--[Developer Portfolio](#developer-portfolio)
--[Developer to follow on Instagram](#developer-to-follow-on-instagram)
+*[Music Playlists](#music-playlists)
+*[Market or Sell your Side Projects](#market-or-sell-your-side-projects)
+*[Remote Jobs](#remote-jobs)
+*[Freelancing](#freelancing)
+*[Developer Portfolio](#developer-portfolio)
+*[Developer to follow on Instagram](#developer-to-follow-on-instagram)
 
--[Developer to follow on Twiiter(#developer-to-follow-on-twiiter)
+*[Developer to follow on Twiiter(#developer-to-follow-on-twiiter)
 
--[Developer Communities](#developer-communities)
+*[Developer Communities](#developer-communities)
 
 
 

@@ -143,3 +143,48 @@ The Best Tools and Resources for developers
 
  
 
+### Youtube Channels
+
+[Dev Tips](https://www.youtube.com/user/DevTipsForDesigners)--I discover DevTips 5 months ago and I love the way of teaching technologies like Docker , PWA , Puppeter and much more
+
+[Wes Bos](https://www.youtube.com/user/wesbos)--Great Youtube Channel for Javacsript Developers . Wes Bos has Great Videos about Front End Developement like 30 Javascript Challenge Playlist
+
+
+
+[FreecodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)--The best Youtube Channels for Developers with a lot of great tutorials and Crash Course and you can learn code for free
+
+
+
+[Coding Train](https://www.youtube.com/user/shiffman)--Daniel teach programming languages and library with a funny way
+
+
+
+[Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q/videos)--MPG has great videos and way to teach web developement and also life of a developer
+
+[Traversy Media](https://www.youtube.com/user/TechGuyWeb)--Brad Traversy has great tutorials and crash course about web developement and also about freelancing as a developer
+
+
+[Chris Sean](https://www.youtube.com/channel/UCu1xbgCV5o48h_BYCQD7KJg/)--Life of front end developer at Entrepreneur Magazine
+
+[Joshua Fluke](https://www.youtube.com/user/TechGuyWeb)--Great Youtube Channel for developers who are looking for remote jobs
+
+
+[Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ/)--Collection of great Conferences about different tech topics
+
+
+[Andy Sterkowitz](https://www.youtube.com/channel/UCZ9qFEC82qM6Pk-54Q4TVWA)--Great videos for Self Taught Software Developer
+
+[DesignCourse](https://www.youtube.com/user/DesignCourse/)--My favorite Youtube Channels to learn new things about front end developement and web design
+
+[Life of Luba](https://www.youtube.com/channel/UCgzKCeDYLRzPhQ64R6AKyBQ)--Great Lessons and Interviews from a developer at Airbnb
+
+[ForrestKnight](https://www.youtube.com/channel/UC2WHjPDvbE6O328n17ZGcfg/)--Life of full-time Software Engineer
+
+
+
+[Joma Tech](https://www.youtube.com/channel/UCV0qA-eDDICsRR9rPcnG7tw/)--Life of Data Scientist in Silicon Valley and Interviews with Software Engineers In Silicon Valley
+
+
+
+
+### Blogs 

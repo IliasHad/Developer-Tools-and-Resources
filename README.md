@@ -241,7 +241,7 @@ The Best Tools and Resources for developers
 
 
 
-[Fiverr](fiverr.com)Great Website for new developer to get freelancing projects from 5$ to 1000$ and more
+[Fiverr](https://www.fiverr.com/)Great Website for new developer to get freelancing projects from 5$ to 1000$ and more
 
 
 
@@ -249,15 +249,15 @@ The Best Tools and Resources for developers
 
 
 
-[Tobias Reich](fiverr.com)Web Developer and Designer
+[Tobias Reich](https://electerious.com/)Web Developer and Designer
 
 
-[Matt Lee ](fiverr.com)Creative Developer
+[Matt Lee ](http://bymattlee.com/)Creative Developer
 
 
-[Riccardo Zanutta](fiverr.com)Front End Developer
+[Riccardo Zanutta](http://riccardozanutta.com/)Front End Developer
 
-[Rafael Caferati](fiverr.com)Full Stack Developer
+[Rafael Caferati](https://caferati.me/)Full Stack Developer
 
 [Jad Joubran](https://jadjoubran.io/)Award-winning tech speaker & web consultant
 

@@ -188,3 +188,65 @@ The Best Tools and Resources for developers
 
 
 ### Blogs 
+
+
+[Free Code Camp](https://www.youtube.com/channel/UC2WHjPDvbE6O328n17ZGcfg/)--Open Source Community with great articles about development, design, and data science
+
+
+
+[Codeburst](https://www.youtube.com/channel/UC2WHjPDvbE6O328n17ZGcfg/)--Another great community with great articles about web Developement
+
+
+
+
+[Smashing Magazine](https://www.youtube.com/channel/UC2WHjPDvbE6O328n17ZGcfg/)--A very popular web design and development blog, writing about all things coding and designing.
+
+[Codrops](https://www.youtube.com/channel/UC2WHjPDvbE6O328n17ZGcfg/)--The Best Articles and Tutorials about latest Trends in Front End Developement
+
+
+###Podcasts
+[Syntax](https://www.youtube.com/channel/UC2WHjPDvbE6O328n17ZGcfg/)--My favorite podcast about web developement hosted by Wes Bos and Scott Tolinski
+
+### Music Playlists
+
+[Code Radio By Freecodecamp](https://www.youtube.com/channel/UC2WHjPDvbE6O328n17ZGcfg/)-24/7 Music for concentration
+
+###Market or Sell your Side Projects
+
+[Product Hunt](https://producthunt.com/)-Product Hunt is a curation of the best new products and services, every day and you can get potential users of your products or servcies for free
+
+
+
+[Code Canyon](https://codecanyon.net/)-#1 Marketplace to Sell and Buy Wordpress Plugins , CMS and more...
+
+
+
+[Themeforest](https://themeforest.net/)-#1 Marketplace to Sell and Buy Themes for Wordpress, Shopify, Mangento and more...
+
+
+###Remote Jobs
+
+[Remote Ok](https://remoteok.io/)-#1 Remote Jobs Board
+
+[We Work Remotely](https://weworkremotely.com/)Another great remote jobs board
+
+
+[Stack Overflow](https://stackoverflow.com/jobs/remote-developer-jobs)Remote Jobs by biggest Community of Developers
+
+
+
+
+###Freelancing
+[Upwork](https://www.upwork.com/)The #1 Freelancing Marketplace to get freelancing projects
+
+
+
+[Fiverr](fiverr.com)Great Website for new developer to get freelancing projects from 5$ to 1000$ and more
+
+
+
+
+
+
+
+

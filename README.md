@@ -26,7 +26,7 @@ Table of Content
 * [Developer Portfolio](#developer-portfolio)
 * [Developer to follow on Instagram](#developer-to-follow-on-instagram)
 
-* [Developer to follow on Twiiter(#developer-to-follow-on-twiiter)
+* [Developer to follow on Twiiter](#developer-to-follow-on-twiiter)
 
 * [Developer Communities](#developer-communities)
 

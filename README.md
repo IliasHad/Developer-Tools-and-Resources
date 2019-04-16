@@ -7,7 +7,7 @@ Table of Content
 * [Testing and Optimization](#testing-and-optimization)
  
 * [Free Stock Photos for commercial use](#free-stock-photos-for-commercial-use)
-* [Free Illustartions for commercial use](#free-illustartions--for-commercial-use)
+* [Free Illustrations for commercial use](#free-illustartions--for-commercial-use)
 * [Color Gradient](#color-gradient)
 * [Free Icons](#free-icons)
 * [UI Design Inspiration](#ui-design-inspiration)
@@ -66,14 +66,14 @@ Table of Content
 [Burst By Shopify](https://burst.shopify.com/)--  Free stock photos for websites and commercial use by Shopify
 
 
-### Free Illustartions  for commercial use
+### Free Illustrations for commercial use
 
 
 
-[Undraw](https://undraw.co/illustrations)-- SVG and PNG Modern Illustartions
+[Undraw](https://undraw.co/illustrations)-- SVG and PNG Modern Illustrations
 
 
-[ManyPixels](https://gallery.manypixels.co/)-- SVG and PNG Modern Illustartions
+[ManyPixels](https://gallery.manypixels.co/)-- SVG and PNG Modern Illustrations
 
 
 ### Color Gradient

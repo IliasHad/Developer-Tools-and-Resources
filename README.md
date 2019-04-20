@@ -163,6 +163,7 @@ Table of Content
 
 
 
+[JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc)- Read and Edit Your JSON Files
 
 
 ### CSS Ressources
@@ -179,7 +180,8 @@ Table of Content
 [CSS Tricks](https://css-tricks.com/)--The Best tutorials and articles to master CSS
 
 
- 
+ [Keyframes](https://chrome.google.com/webstore/detail/keyframes/dalaiblmpeklkjnpeocmaojcfldmbfck)- Creat CSS animations right in your browse
+
 
 ### Youtube Channels
 

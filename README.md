@@ -1,5 +1,5 @@
 # Developer Tools and Resources
-The Best Tools and Resources for developers.
+My Best Tools and Resources as a developer.
 
 
 Table of Content

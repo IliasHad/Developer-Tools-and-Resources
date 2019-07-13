@@ -247,7 +247,8 @@ Table of Content
 
 
 ### Podcasts
-[Syntax](https://www.youtube.com/channel/UC2WHjPDvbE6O328n17ZGcfg/)--My favorite podcast about web developement hosted by Wes Bos and Scott Tolinski
+[Syntax](http://syntax.fm)--My favorite podcast about web developement hosted by Wes Bos and Scott Tolinski
+[Indiehackers](https://www.indiehackers.com/podcast)--Great podcast for developers who want to get inspired stories about inide makers developers
 
 ### Music Playlists
 
@@ -361,7 +362,10 @@ Table of Content
 
 [Programming - Reddit](https://www.reddit.com/r/programming/) - The biggest community of developers on Reddit with over than 1.9 Members
 
+[DEV ](https://dev.to/) -  an online community for sharing and discovering great ideas, sharing tools and tips
 
+
+[Indiehackers](https://www.indiehackers.com/)--Great community  for developers who want to get inspired stories about how inide makers developers built sucessful products 
 # How to Contribute
 
 
@@ -369,7 +373,6 @@ Table of Content
 Please, feel free to contribute more developers tools and resources . just send a Pull Request with respect to our [Contribution Guidelines](https://github.com/IliasHad/Developer-Tools-and-Resources/blob/master/Contribution_Guidelines.md)
 
 
- [💛 We're on Product Hunt Today 👉 Please support Us on Product hunt ](https://www.producthunt.com/posts/developers-tools-resources)
 
 
 

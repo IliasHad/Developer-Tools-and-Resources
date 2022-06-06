@@ -75,6 +75,8 @@ Table of Content
 
 [ManyPixels](https://gallery.manypixels.co/)-- SVG and PNG Modern Illustrations
 
+[Illustrations-figma](https://gallery.manypixels.co/)-- More than 5000 vector illustrations you can use inside Figma. All the figma illustrations are in SVG & PNG formats and includes styles like flat, lined, abstract and more.
+
 
 ### Color Gradient
 

@@ -54,6 +54,8 @@ Table of Content
 
 [Meta Tags Validator](https://metatags.io/)--  Preview your website meta tags in Google Search , Facebook , Twitter and more
 
+[Optimizeimages](https://www.optimizeimages.com)--  Optimize images online with this free tool, compress & convert images in PNG, JPEG, SVG, AVIF, WebP and GIF formats, and even get picture HTML tags for correct implementation.
+
 
 
 ### Free Stock Photos for commercial use
@@ -75,7 +77,9 @@ Table of Content
 
 [ManyPixels](https://gallery.manypixels.co/)-- SVG and PNG Modern Illustrations
 
-[Illustrations-figma](https://gallery.manypixels.co/)-- More than 5000 vector illustrations you can use inside Figma. All the figma illustrations are in SVG & PNG formats and includes styles like flat, lined, abstract and more.
+[Illustrations-figma](https://www.artify.co/illustrations-figma)-- More than 5000 vector illustrations you can use inside Figma. All the figma illustrations are in SVG & PNG formats and includes styles like flat, lined, abstract and more.
+
+[Vector-illustrations](https://www.artify.co/vector-illustrations)-- Search over 5000 vector illustrations and more than 70 design styles, with an integrated editor to adjust the design at you wish.
 
 
 ### Color Gradient
@@ -94,6 +98,12 @@ Table of Content
 
 
 [Fontawesome](https://fontawesome.com/)-- Free and Premium Webfonts Icons for commercial usage.
+
+
+[3dicons](https://www.3dicons.com/)-- A collection of over 5000 3D icons and characters with 4k resolution, each icon delivered in 5 color palettes, front and perspective views.
+
+
+[Iconshock](https://www.iconshock.com/)-- The biggest icon pack with over 2 million professional icons in +400 icon sets with more than 30 design styles: material, flat, 3d, realistic, iOS, and more.
 
 
 
@@ -151,6 +161,8 @@ Table of Content
 [Puppeteer ](https://github.com/GoogleChrome/puppeteer)- Headless Chrome Browser to automate form submission, Test your web app  in the latest version of Chrome using the latest JavaScript and browser features and also scrap Informations from websites
 
 [WakaTime](https://wakatime.com/)- Track Your Coding Time
+
+[TshirtDesigns](https://www.tshirtdesigns.com)- Track Your Coding TimeAn apparel and tshirt design mockup generator plus a marketplace of t-shirt designs.
 
 
 ### Javascript Ressources

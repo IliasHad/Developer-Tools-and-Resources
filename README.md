@@ -146,6 +146,8 @@ Table of Content
 [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)--Roadmap to becoming a web developer in 2019
 
 
+[Glim](https://github.com/NeoPanic/Glim)--Open-source macOS file viewer and basic text editor for Markdown, diagrams, Git diffs, JSON and CSV files.
+
 [Puppeteer ](https://github.com/GoogleChrome/puppeteer)- Headless Chrome Browser to automate form submission, Test your web app  in the latest version of Chrome using the latest JavaScript and browser features and also scrap Informations from websites
 
 [WakaTime](https://wakatime.com/)- Track Your Coding Time
